@@ -73,3 +73,26 @@ When the block ends the file close automatically, and its all the memory related
 write(str)
 ```
 Writes string to a file.
+
+
+### CSV files
+- CSV (comma-separated values)
+- each row has comma seperated values, called files
+- and a row ends with a new line character (\n)
+- each row is a record
+- each column is a file
+- condition: each row in a csv file must contain same number of columns (fields)
+
+- To work with csv file use `csv` module
+import csv
+
+- To create a writer object, using `writer()` function from `csv` module
+csv.write()
+- Then to write data to it use, `writerows()` method on writer object.
+writerows()
+
+- To read from the csv file, use `reader()` function from `csv` module
+csv.reader()
+
+- We need to newline argument in open() function and set it to '', to enable compatability among different OSes.
+

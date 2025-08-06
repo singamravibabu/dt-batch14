@@ -1,0 +1,7 @@
+Python for Data Science
+Data Manipulation with Pandas
+Data Visualization with Matplotlib
+Machine Learning with Scikit-Learn
+Deep Learning with TensorFlow
+Natural Language Processing with NLTK
+Big Data Analytics with Spark
