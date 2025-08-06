@@ -1,0 +1,10 @@
+with open('courses.txt', 'r') as file:
+    line1 = file.readline()
+    line2 = file.readline()
+    line3 = file.readline()
+    line1 = line1.replace('\n', '')
+    line2 = line2.replace('\n', '')
+    line3 = line3.replace('\n', '')
+    print(line1, end=' ')
+    print(line2, end=' ')
+    print(line3, end=' ')

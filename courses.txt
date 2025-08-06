@@ -1,0 +1,9 @@
+Excel
+ChatGPT
+Tableau
+Knime
+MatLab
+Python
+Machine Learning
+Analytics
+Data Science

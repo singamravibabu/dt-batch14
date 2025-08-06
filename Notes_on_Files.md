@@ -37,6 +37,8 @@
 Syntax:
 `open(filename, mode)`
 ```
+> The open() function creates a `file_object`
+
 filename - file name or complete path of the file
 mode - There are three modes:
     - r (read)
@@ -45,3 +47,29 @@ mode - There are three modes:
         - if the doesn't exists it creates one, if the file already exists then it deletes the existing data from it.
     - a (append)
         - if the doesn't exist it creates one, if the file exists then it appends the new data to the file
+    - b (binary)
+        We can read binary files using 'rb'
+        We can write to binary files using 'wb'
+
+
+#### Closing a file automatically using 'with' clause
+```
+with open(filename, mode) as f:
+    block
+'''
+When the block ends the file close automatically, and its all the memory related to the file.
+
+
+#### Reading files
+- read() method
+    - it reads all the content (all lines) of the file as one single string
+- readlines() method
+    - reads all the lines of a file into a list, where each item in the list is a line from the file.
+- readline() method
+    - reads the next line
+
+#### The write() method
+```
+write(str)
+```
+Writes string to a file.
