@@ -96,3 +96,13 @@ csv.reader()
 
 - We need to newline argument in open() function and set it to '', to enable compatability among different OSes.
 
+
+### Binary files
+- Non-text files, they contain stream of bytes.
+- To work with binary files, use `pickle` module.
+- The `pickle` is the module to work with persistent data.
+- The two from `pickle` module are:
+    - load(bfile)
+    - dump(object, bfile)
+
+
