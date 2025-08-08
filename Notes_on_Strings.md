@@ -46,3 +46,22 @@
     - Justify text with the specified width towards right side.
 15. center(width)
     - Justify text with the specified width towards center.
+
+- The find(str[, start][, end]) method
+    - it searches for the specified in the larger string, and then returns the index number of the specified string.
+    - The optional start and end arguments specify the start and end index numbers to begin the search and end the search.
+    - if the str is not found in the larger string then it returns -1
+
+- replace(old, new[, num])
+    - old: specify the substring to be replaced
+    - new: specify the replacing substring
+    - num: number of occurances to replace
+
+- split([delimiter][, num])
+    - delimiter: a character or string that delimits (separates) parts of a string. By default, delimiter is a space.
+    - num: number of delimiters to be split
+
+- str.join(sequence)
+    - The 'str' specified join the each item from the 'sequence'.
+
+    
