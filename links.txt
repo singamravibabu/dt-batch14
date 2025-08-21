@@ -1,5 +1,8 @@
+Web applcations using Streamlit
 https://youtu.be/htM_RNmnw_w
-
 https://youtu.be/ssAAHi1bvZI
-
 https://youtu.be/iDMZiPk5aAA
+
+
+Python IDLE Installation
+https://www.youtube.com/watch?v=E12DU1w6vu4
