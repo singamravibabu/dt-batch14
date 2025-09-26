@@ -1,0 +1,61 @@
+Order ID,Order Date,Region,Country,City,Sales Rep,Product Category,Product,Quantity,Unit Price,Discount %,Sales Amount,Profit
+1001,03-09-2023,North America,USA,Los Angeles,Priya Sharma,Electronics,Smartphone,5,774,0%,3870,1172.65
+1002,21-12-2023,South America,Brazil,São Paulo,Alice Johnson,Electronics,Smartphone,17,636,0%,10812,2901.65
+1003,07-03-2023,South America,Brazil,Rio de Janeiro,Sophia Müller,Furniture,Desk,6,734,15%,3743.4,756.45
+1004,15-12-2023,Asia,India,Mumbai,Michael Lee,Electronics,Tablet,12,638,10%,6890.4,2357.47
+1005,25-04-2023,North America,Canada,Toronto,Sophia Müller,Furniture,Bookshelf,19,216,0%,4104,466.82
+1006,07-06-2023,Asia,India,Mumbai,Alice Johnson,Furniture,Bookshelf,15,670,10%,9045,1345.86
+1007,09-07-2023,Asia,China,Beijing,Sophia Müller,Clothing,Shoes,18,766,5%,13098.6,1951.96
+1008,23-10-2023,Europe,France,Paris,David Brown,Electronics,Tablet,13,294,0%,3822,624.11
+1009,18-09-2023,Asia,India,Delhi,Michael Lee,Clothing,Jeans,5,291,5%,1382.25,240.5
+1010,28-01-2023,Asia,China,Shanghai,Sophia Müller,Furniture,Bookshelf,8,161,20%,1030.4,255.6
+1011,17-08-2023,North America,USA,Los Angeles,David Brown,Clothing,Jeans,20,85,15%,1445,309.93
+1012,04-06-2023,Asia,China,Beijing,Kenji Tanaka,Clothing,Jacket,18,788,10%,12765.6,4220.05
+1013,28-02-2023,Asia,Japan,Tokyo,Michael Lee,Electronics,Tablet,17,800,5%,12920,3259.77
+1014,11-10-2023,Asia,China,Beijing,David Brown,Furniture,Office Chair,18,996,20%,14342.4,5386.26
+1015,24-02-2023,South America,Brazil,São Paulo,Priya Sharma,Furniture,Office Chair,2,266,20%,425.6,163.47
+1016,14-10-2023,South America,Brazil,São Paulo,David Brown,Clothing,Jeans,18,189,10%,3061.8,790.87
+1017,08-04-2023,Europe,Germany,Munich,Michael Lee,Clothing,T-Shirt,15,941,20%,11292,2658.65
+1018,02-11-2023,North America,Canada,Toronto,Sophia Müller,Clothing,Shoes,19,245,0%,4655,564.64
+1019,24-03-2023,Europe,UK,London,Priya Sharma,Electronics,Smartphone,9,705,15%,5393.25,885.95
+1020,15-07-2023,South America,Brazil,Rio de Janeiro,Michael Lee,Electronics,Laptop,4,694,15%,2359.6,486.76
+1021,05-08-2023,North America,Mexico,Mexico City,Alice Johnson,Furniture,Bookshelf,4,274,5%,1041.2,163.53
+1022,18-11-2023,South America,Brazil,Rio de Janeiro,Michael Lee,Electronics,Laptop,15,847,20%,10164,1314.94
+1023,13-03-2023,North America,USA,New York,David Brown,Furniture,Sofa,16,238,15%,3236.8,1199.99
+1024,07-05-2023,North America,Canada,Vancouver,Michael Lee,Furniture,Sofa,18,697,15%,10664.1,1561.64
+1025,06-09-2023,North America,Mexico,Mexico City,Kenji Tanaka,Furniture,Desk,2,618,15%,1050.6,263.55
+1026,08-10-2023,North America,Mexico,Mexico City,David Brown,Electronics,Laptop,8,433,0%,3464,1324.91
+1027,05-07-2023,North America,Mexico,Mexico City,Michael Lee,Clothing,T-Shirt,9,229,10%,1854.9,318.31
+1028,17-04-2023,Asia,Japan,Osaka,Alice Johnson,Electronics,Monitor,20,596,0%,11920,1453.98
+1029,10-12-2023,Asia,India,Delhi,Alice Johnson,Electronics,Tablet,10,181,15%,1538.5,538.66
+1030,09-03-2023,North America,Mexico,Guadalajara,Kenji Tanaka,Electronics,Smartphone,9,138,0%,1242,400.82
+1031,03-01-2023,Asia,China,Beijing,Kenji Tanaka,Furniture,Office Chair,9,537,15%,4108.05,720.29
+1032,18-07-2023,South America,Argentina,Buenos Aires,Alice Johnson,Furniture,Office Chair,9,185,15%,1415.25,375.75
+1033,02-03-2023,North America,USA,New York,Kenji Tanaka,Electronics,Laptop,12,616,20%,5913.6,854.09
+1034,20-07-2023,Asia,Japan,Tokyo,Priya Sharma,Electronics,Smartphone,4,382,20%,1222.4,446.47
+1035,26-07-2023,Europe,Germany,Berlin,David Brown,Furniture,Desk,6,774,10%,4179.6,1398.98
+1036,12-08-2023,Europe,France,Paris,Kenji Tanaka,Electronics,Monitor,2,899,15%,1528.3,254.81
+1037,12-05-2023,Asia,India,Mumbai,Alice Johnson,Clothing,Shoes,13,356,10%,4165.2,1496.58
+1038,14-10-2023,South America,Chile,Valparaíso,Alice Johnson,Electronics,Tablet,6,614,10%,3315.6,369.61
+1039,23-01-2023,Asia,China,Shanghai,Michael Lee,Clothing,Jacket,13,941,20%,9786.4,1536.7
+1040,24-02-2023,South America,Brazil,São Paulo,Priya Sharma,Furniture,Desk,11,658,10%,6514.2,1947.85
+1041,14-04-2023,Asia,China,Shanghai,Kenji Tanaka,Furniture,Bookshelf,13,733,10%,8576.1,2284.02
+1042,14-04-2023,South America,Chile,Santiago,Sophia Müller,Clothing,T-Shirt,13,581,0%,7553,1443.85
+1043,17-05-2023,Asia,Japan,Osaka,Michael Lee,Clothing,Shoes,17,504,5%,8139.6,2422.79
+1044,20-08-2023,Asia,India,Mumbai,Kenji Tanaka,Furniture,Office Chair,7,170,0%,1190,135.5
+1045,23-11-2023,North America,Canada,Vancouver,Kenji Tanaka,Clothing,Shoes,13,526,15%,5812.3,1006.66
+1046,15-02-2023,North America,USA,Chicago,David Brown,Electronics,Monitor,2,590,5%,1121,420.65
+1047,15-08-2023,Europe,Spain,Barcelona,Michael Lee,Clothing,Jeans,18,476,5%,8139.6,2629.88
+1048,09-04-2023,Asia,India,Delhi,Sophia Müller,Furniture,Office Chair,9,470,0%,4230,1328.49
+1049,14-02-2023,Asia,Japan,Tokyo,David Brown,Electronics,Smartphone,13,730,5%,9015.5,2812.17
+1050,28-01-2023,South America,Argentina,Córdoba,Michael Lee,Electronics,Smartphone,14,418,20%,4681.6,1796.89
+1051,16-04-2023,South America,Argentina,Buenos Aires,Priya Sharma,Furniture,Sofa,14,571,20%,6395.2,2174.12
+1052,05-08-2023,Europe,France,Lyon,Michael Lee,Electronics,Monitor,11,704,15%,6582.4,2088.3
+1053,13-05-2023,North America,Canada,Toronto,Alice Johnson,Clothing,Jeans,5,907,15%,3854.75,595.63
+1054,16-02-2023,Asia,India,Delhi,Priya Sharma,Furniture,Sofa,9,790,15%,6043.5,1061.73
+1055,27-04-2023,North America,Mexico,Mexico City,Priya Sharma,Electronics,Laptop,2,792,0%,1584,609.66
+1056,25-05-2023,North America,Mexico,Mexico City,David Brown,Electronics,Monitor,4,597,5%,2268.6,543.35
+1057,13-07-2023,Asia,India,Mumbai,David Brown,Furniture,Desk,19,46,10%,786.6,214.54
+1058,26-10-2023,Europe,UK,London,Alice Johnson,Clothing,T-Shirt,20,844,0%,16880,5720.09
+1059,27-07-2023,North America,Canada,Vancouver,Kenji Tanaka,Furniture,Desk,17,683,10%,10449.9,1084.65
+1060,09-11-2023,South America,Brazil,Rio de Janeiro,Priya Sharma,Clothing,Jeans,5,465,5%,2208.75,707.11
